@@ -1,23 +1,23 @@
 # ✔️ Up To Do App
 
 <div align="start">
-     <a href="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
-        <img src="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
+     <a href="https://api.visitorbadge.io/api/visitors?path=readme-example&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
+        <img src="https://api.visitorbadge.io/api/visitors?path=readme-example&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmad-alnahrawyy/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:ammarfathy516@gmail.com">
+  <a href="mailto:ahmad_alnahrawy@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
+    <a href="https://www.youtube.com/channel/UCHezStfLt6G4Fr9j4JCAUvA">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-     <a href="https://mostaql.com/u/ammarageeza/portfolio">
+     <a href="https://www.upwork.com/freelancers/~01cef88f2acf7dd0d1">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
      </a>
-     <a href="https://t.me/ammarageeza">
+     <a href="https://t.me/ahmadAlnahrawy">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
@@ -44,24 +44,24 @@
 <p align= "center">
     <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
      <kbd>
-        <img  src="https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
+        <img  src="https://github.com/AmmarAgeeza/readme-example/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
      </kbd>
   </a>
 
 
 ## 📁 File Structure
 
-![image](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/6bf5b32f-abb6-4a88-b96c-e67133dc7618)
+![image](https://github.com/AmmarAgeeza/readme-example/assets/72443818/6bf5b32f-abb6-4a88-b96c-e67133dc7618)
 
 ## 📱 UI
 
-![2](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/bd589d06-bb71-4010-9899-709ead2d9545)
+![2](https://github.com/AmmarAgeeza/readme-example/assets/72443818/bd589d06-bb71-4010-9899-709ead2d9545)
 
-![3](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
+![3](https://github.com/AmmarAgeeza/readme-example/assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
 
 ## 🎥 Video
 
-https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
+https://github.com/AmmarAgeeza/readme-example/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
 
 ## 🛠 Dependencies
 
