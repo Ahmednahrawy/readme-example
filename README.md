@@ -37,14 +37,14 @@
 
 <hr>
 <h3>
-  <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
+  <a href="https://www.youtube.com/channel/UCHezStfLt6G4Fr9j4JCAUvA">
     👨🏻‍🎓 Get this app on YouTube Playlist Tutorials
   </a>
 </h3>
 <p align= "center">
-    <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
+    <a href="https://www.youtube.com/channel/UCHezStfLt6G4Fr9j4JCAUvA">
      <kbd>
-        <img  src="https://github.com/Ahmednahrawy /readme-example/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
+        <img  src="https://github.com/Ahmednahrawy/readme-example/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
      </kbd>
   </a>
 
